@@ -21,3 +21,12 @@ node_modules/
 *.log
 *.sql
 *.sqlite
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+# Mac
+.DS_Store
+
